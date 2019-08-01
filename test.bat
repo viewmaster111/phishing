@@ -1,3 +1,0 @@
-bash -c "commande"
-
-pause
